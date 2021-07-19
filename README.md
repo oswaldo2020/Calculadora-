@@ -1,2 +1,2 @@
 # Calculadora-
-Calculadora con Jaca Script puro
+Calculadora con Java Script puro
